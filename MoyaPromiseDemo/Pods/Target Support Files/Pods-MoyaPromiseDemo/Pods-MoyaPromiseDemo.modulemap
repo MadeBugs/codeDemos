@@ -1,0 +1,6 @@
+framework module Pods_MoyaPromiseDemo {
+  umbrella header "Pods-MoyaPromiseDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
